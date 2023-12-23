@@ -1,0 +1,3 @@
+name age address gender phone
+pk notnull notnull no notnull,unique
+str int str str int
